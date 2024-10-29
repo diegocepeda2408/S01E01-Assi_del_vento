@@ -1,0 +1,5 @@
+export {default as lj1} from './lucky-japan-1.jpg'
+export {default as lj2} from './lucky-japan-2.jpg'
+export {default as lj3} from './lucky-japan-3.jpg'
+export {default as lj4} from './lucky-japan-4.jpg'
+export {default as lj5} from './lucky-japan-5.jpg'
